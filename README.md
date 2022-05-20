@@ -15,6 +15,7 @@
 - [Что такое TCP и как он работает?](https://ip-calculator.ru/blog/ask/chto-takoe-tcp-i-kak-on-rabotaet/)
 - [Что такое IP-адрес](https://www.kaspersky.ru/resource-center/definitions/what-is-an-ip-address)
 - [Что такое DNS-сервер](https://selectel.ru/blog/dns-server/)
+- [Протокол SMTP что такое и для чего он нужен](https://zvondozvon.ru/tehnologii/protokoli/smtp)
 - [Трансокеанические подводные кабели связи](https://habr.com/ru/post/228415/)
 - [Подводная укладка кабелей. Как это делается](https://habr.com/ru/post/242381/)
 
