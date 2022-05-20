@@ -12,6 +12,9 @@
 - [Протоколы верхнего уровня](https://habr.com/ru/post/307714/)
 - [Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/post/308636/)
 - [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/company/oleg-bunin/blog/461829/)
+- [Что такое TCP и как он работает?](https://ip-calculator.ru/blog/ask/chto-takoe-tcp-i-kak-on-rabotaet/)
+- [Что такое IP-адрес](https://www.kaspersky.ru/resource-center/definitions/what-is-an-ip-address)
+- [Что такое DNS-сервер](https://selectel.ru/blog/dns-server/)
 - [Трансокеанические подводные кабели связи](https://habr.com/ru/post/228415/)
 - [Подводная укладка кабелей. Как это делается](https://habr.com/ru/post/242381/)
 
