@@ -56,6 +56,8 @@
 ### Статьи:
 
 - [Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
+- [Как браузер рисует страницы](https://doka.guide/js/how-the-browser-creates-pages/)
+- [Рендеринг веб сайтов 101](https://habr.com/ru/post/484900/)
 - [Как работает JavaScript](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-javascript-cdbef3f20a66)
 - [Интерпретатор, компилятор, динамическая компиляция](http://jsflow.org/docs/js-engines/)
 - [О внутреннем устройстве V8 и оптимизации кода](https://habr.com/ru/company/ruvds/blog/337460/)
