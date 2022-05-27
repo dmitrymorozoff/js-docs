@@ -77,3 +77,7 @@
 - [Бэкенд для фронтенда, или Как в Яндекс.Маркете создают API без костылей](https://habr.com/ru/company/yandex/blog/428141/)
 - [Архитектура современных корпоративных Node.js-приложений](https://habr.com/ru/company/yandex/blog/428141/)
 - [Серверный или клиентский рендеринг на вебе: что лучше использовать у себя в проекте и почему](https://tproger.ru/translations/rendering-on-the-web/)
+
+### Видео:
+- [Виталий Слободин — Воркшоп. GitLab + CI/CD + JavaScript = ❤️](https://www.youtube.com/watch?v=ob5qrncMMUI)
+- [Ликбез по CI/CD для frontend'а на примере GitLab](https://www.youtube.com/watch?v=BIY_J0Ba4Cc&t=101s)
